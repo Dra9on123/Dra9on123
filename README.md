@@ -1,5 +1,5 @@
-
-| Welcome to my GitHub Page |  |
+# Welcome to my GitHub Profile
+|  |  |
 |  :---: |  :---:  |
 | <img src="Files\dragon.png" style="width: 30%"/> |👋 Hey, I am Edward Serna, also known as @Dra9on123 or Dragon.  |
 ## 🎮 My Interests
