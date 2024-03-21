@@ -11,7 +11,7 @@ Some past projects/ current development
 * Morse Code Converter
 
 ## 🤝 Collaboration Opportunities
-If you're interested in some conversations please contact me via my email or others socials\
+If you're interested in some conversations please contact me via my email or others socials
 
 
 ## 📫 Contact Information
