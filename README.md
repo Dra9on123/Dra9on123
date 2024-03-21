@@ -12,5 +12,5 @@
 
 ## 📫 Contact Information
 
-- Email: sernaedward10@gmail.com
+- Email: sernaedward1@gmail.com
 <!---Feel free to use this as a template for your GitHub page or provide feedback on how I can improve it.--->
