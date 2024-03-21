@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to my GitHub Page 
+[//]: <> (<img src="" style="display: flex;  width: 42%; padding-bottom: 18px"/>)
 
-<!--
-**Dra9on123/Dra9on123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+# 👋 Hey, I am Edward Serna, also known as @Dra9on123 or Dragon.
 
-Here are some ideas to get you started:
+[//]: <> (## 🎮 My Interests)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[//]: <> (## 🌱 Current Learning Journey)
+
+[//]: <> (## 🤝 Collaboration Opportunities)
+
+## 📫 Contact Information
+
+- Email: sernaedward10@gmail.com
+<!---Feel free to use this as a template for your GitHub page or provide feedback on how I can improve it.--->
