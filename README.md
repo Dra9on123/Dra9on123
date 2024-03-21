@@ -1,16 +1,19 @@
-# Welcome to my GitHub Page 
-[//]: <> (<img src="" style="display: flex;  width: 42%; padding-bottom: 18px"/>)
 
----
-# 👋 Hey, I am Edward Serna, also known as @Dra9on123 or Dragon.
+| Welcome to my GitHub Page |  |
+|  :---: |  :---:  |
+| <img src="Files\dragon.png" style="width: 30%"/> |👋 Hey, I am Edward Serna, also known as @Dra9on123 or Dragon.  |
+## 🎮 My Interests
+ I like to code for fun and trying to create some projects that might catch people's interest
 
-[//]: <> (## 🎮 My Interests)
+## 🌱 Project Learning Journey
+Some past projects/ current development 
+* Discord Bot
+* Morse Code Converter
 
-[//]: <> (## 🌱 Current Learning Journey)
+## 🤝 Collaboration Opportunities
+If you're interested in some conversations please contact me via my email or others socials\
 
-[//]: <> (## 🤝 Collaboration Opportunities)
 
 ## 📫 Contact Information
-
 - Email: sernaedward1@gmail.com
 <!---Feel free to use this as a template for your GitHub page or provide feedback on how I can improve it.--->
